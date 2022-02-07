@@ -1,2 +1,5 @@
 # ProjetoHoroscopo
-Projeto de horóscopo personalizado com PHP
+## Projeto de horóscopo personalizado com PHP
+
+### Descrição: 
+
